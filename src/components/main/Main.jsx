@@ -90,7 +90,7 @@ export default function Main() {
               </a>
               <a href="#">
                 {" "}
-                <img src="./public/work/image 15.png" alt="" />
+                <img src="./work/image 15.png" alt="" />
               </a>
               <a href="#">
                 {" "}

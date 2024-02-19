@@ -8,7 +8,7 @@ export default function Main() {
             <div className="main__mobile-div">
               <img
                 className="main__mobile-icon"
-                src="./public/icons/mobile_web_design.png"
+                src="./icons/mobile_web_design.png"
                 alt="mobile web design"
               />
               <h1 className="main__mobile-title">Mobile & Web Design</h1>
@@ -22,7 +22,7 @@ export default function Main() {
             <div className="main__graphic-div">
               <img
                 className="main__mobile-icon"
-                src="./public/icons/graphicdesign.png"
+                src="./icons/graphicdesign.png"
                 alt="mobile web design"
               />
               <h1 className="main__mobile-title">Graphic Design</h1>
@@ -37,7 +37,7 @@ export default function Main() {
             <div className="main__frontend-div">
               <img
                 className="main__mobile-icon"
-                src="./public/icons/Group 1195.png"
+                src="./icons/Group 1195.png"
                 alt="mobile web design"
               />
               <h1 className="main__mobile-title">Frontend Development</h1>
@@ -58,35 +58,35 @@ export default function Main() {
           <div className="find__center">
             <div className="find__imgs-container">
               <a href="#">
-                <img src="./public/work/image 9.png" alt="" />
+                <img src="./work/image 9.png" alt="" />
               </a>
               <a href="#">
                 {" "}
-                <img src="./public/work/image 11.png" alt="" />
+                <img src="./work/image 11.png" alt="" />
               </a>
               <a href="#">
                 {" "}
-                <img src="./public/work/image 14.png" alt="" />
+                <img src="./work/image 14.png" alt="" />
               </a>
               <a href="#">
                 {" "}
-                <img src="./public/work/image 12.png" alt="" />
+                <img src="./work/image 12.png" alt="" />
               </a>
               <a href="#">
                 {" "}
-                <img src="./public/work/image 8.png" alt="" />
+                <img src="./work/image 8.png" alt="" />
               </a>
               <a href="#">
                 {" "}
-                <img src="./public/work/image 10.png" alt="" />
+                <img src="./work/image 10.png" alt="" />
               </a>
               <a href="#">
                 {" "}
-                <img src="./public/work/image 13.png" alt="" />
+                <img src="./work/image 13.png" alt="" />
               </a>
               <a href="#">
                 {" "}
-                <img src="./public/work/Frame 9.png" alt="" />
+                <img src="./work/Frame 9.png" alt="" />
               </a>
               <a href="#">
                 {" "}
@@ -94,7 +94,7 @@ export default function Main() {
               </a>
               <a href="#">
                 {" "}
-                <img src="./public/work/image 16.png" alt="" />
+                <img src="./work/image 16.png" alt="" />
               </a>
             </div>
           </div>
@@ -156,7 +156,7 @@ export default function Main() {
             </div>
             <div className="about__hire-container">
               <div className="about__upper-hire">
-                <img src="./public/about/group.png" alt="" />
+                <img src="./about/Group.png" alt="" />
                 <h1 className="about__upper-title">
                   User Experience Nanodegree
                 </h1>
@@ -166,7 +166,7 @@ export default function Main() {
                 <button className="about__upper-btn">View Certificate</button>
               </div>
               <div className="about__lower-hire">
-                <img src="./public/about/upwork 1.png" alt="" />
+                <img src="./about/upwork 1.png" alt="" />
                 <h1 className="about__lower-title">Available via Upwork</h1>
                 <p className="about__lower-description">
                   Top rated freelancer on upwork

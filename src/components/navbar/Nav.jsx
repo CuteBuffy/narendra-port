@@ -18,7 +18,7 @@ export default function Nav() {
         <div className="container navbar__container">
           <div className="navbar-left">
             <a className="logo" href="">
-              <img src="./public/icons/group.png" alt="" />
+              <img src="./icons/Group.png" alt="" />
             </a>
           </div>
           <div className="navbar-left">

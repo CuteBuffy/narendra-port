@@ -3,7 +3,7 @@ export default function Hero() {
     <>
       <div className="container container-hero">
         <div className="wrapper">
-          <img className="light-frame" src="./public/icons/Property 1=Light Frame.png" alt="light frame" />
+          <img className="light-frame" src="./icons/Property 1=Light Frame.png"alt="light frame" />
           <div className="text-info">
             <h1 className="title">Hi 👋, I'm Narendra</h1>
             <h2 className="description">Freelance Full Stack Designer</h2>

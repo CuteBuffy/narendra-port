@@ -1,0 +1,168 @@
+/* .container-hero {
+  margin-top: 13rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.light-frame {
+  margin-right: 5rem;
+}
+
+.title {
+  margin-bottom: 1rem;
+}
+
+.description_2 {
+  margin-top: 0.3rem;
+}
+
+.buttons {
+  margin-top: 2.5rem;
+  display: flex;
+  gap: 2rem;
+}
+
+.buttons button {
+  padding: 8px 20px;
+  font-size: 1.5rem;
+  font-weight: 400;
+  border-radius: 8px;
+  transition: transform 0.18s
+}
+
+.buttons button:hover {
+  transform: translateY(-3px);
+}
+
+.myWork {
+  background-color: #1b75b1;
+  color: #fff;
+}
+
+.talk {
+  background-color: #f86d6d;
+} */
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.container-hero {
+  margin-top: 4rem;
+}
+
+.light-frame {
+  width: 300px;
+  height: 300px;
+}
+
+.text-info {
+  margin-top: 1rem;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  margin-top: 1rem;
+  display: flex;
+  gap: 1rem;
+}
+
+.buttons button {
+  padding: 8px 20px;
+  font-size: 1rem;
+  font-weight: 400;
+  border-radius: 8px;
+  transition: transform 0.18s;
+}
+
+.buttons button:hover {
+  transform: translateY(-3px);
+}
+
+.myWork {
+  background-color: #1b75b1;
+  color: #fff;
+}
+
+.talk {
+  background-color: #f86d6d;
+}
+
+/* md */
+@media (min-width: 768px) {
+  .container-hero {
+    margin-top: 13rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .light-frame {
+    margin-right: 5rem;
+  }
+
+  .title {
+    margin-bottom: 1rem;
+  }
+
+  .description_2 {
+    margin-top: 0.3rem;
+  }
+
+  .buttons {
+    margin-top: 2.5rem;
+    display: flex;
+    gap: 2rem;
+  }
+
+  .buttons button {
+    padding: 8px 20px;
+    font-size: 1.5rem;
+    font-weight: 400;
+    border-radius: 8px;
+    transition: transform 0.18s;
+  }
+
+  .buttons button:hover {
+    transform: translateY(-3px);
+  }
+
+  .myWork {
+    background-color: #1b75b1;
+    color: #fff;
+  }
+
+  .talk {
+    background-color: #f86d6d;
+  }
+}
+
+/* lg */
+@media (min-width: 1024px) {
+}
+
+/* xl */
+@media (min-width: 1280px) {
+}
+
+/* 2xl */
+@media (min-width: 1536px) {
+}
